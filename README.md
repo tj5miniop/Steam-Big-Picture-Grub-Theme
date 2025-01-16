@@ -2,6 +2,10 @@
 
 ### Latest Screenshot
 
+
+#TEMP - FONTs
+https://fonts.google.com/specimen/Jura?lang=en_Latn&categoryFilters=Sans+Serif:%2FSans%2FRounded
+
 ![ScreenShot](http://i.imgur.com/yQCOjnR.png)
 
 Okay so for the first steps you're going to want to determine what resolutions grub supports, this can be found by installing/building `hwinfo`, and running
